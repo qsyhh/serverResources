@@ -2,6 +2,17 @@
 
 olds:  #不能改
 news: 
+  - source: HoYo青枫
+    collection_id: 
+      - 1751099
+
+      # 合集链接 https://www.miyoushe.com/ys/collection/1751099
+
+  - source: Asgater
+    collection_id: 
+      - 2226204
+
+      # 合集链接 https://www.miyoushe.com/ys/collection/2226204
 
   - source: OH是姜姜呀   
     collection_id: 
@@ -39,17 +50,7 @@ news:
 
       # 草 合集链接 https://www.miyoushe.com/ys/collection/2319299
 
-  - source: Asgater
-    collection_id: 
-      - 2226204
 
-      # 合集链接 https://www.miyoushe.com/ys/collection/2226204
-
-  - source: HoYo青枫
-    collection_id: 
-      - 1751099
-
-      # 合集链接 https://www.miyoushe.com/ys/collection/1751099
 
   - source: 荧岁镇太辰
     collection_id: 
@@ -57,24 +58,6 @@ news:
 
       # 合集链接 https://www.miyoushe.com/ys/collection/2558464
 
-  - source: 流曳
-    collection_id: 
-      - 341284
-
-      # 合集链接 https://www.miyoushe.com/ys/collection/341284
-
-  - source: 原神观测枢
-    collection_id: 
-      - 813033
-
-      # 合集链接 https://www.miyoushe.com/ys/collection/813033
-
-  - source: 婧枫赛赛
-    collection_id: 
-      - 1812949
-
-      # 合集链接 https://www.miyoushe.com/ys/collection/1812949
-   
   - source: 洛羽Lox
     collection_id: 
       - 2489120
@@ -83,15 +66,19 @@ news:
 
   - source: 阿巴辣
     collection_id: 
+      - 2964233
       - 1866901
 
+      # 合集链接 https://www.miyoushe.com/ys/collection/2964233
       # 合集链接 https://www.miyoushe.com/ys/collection/1866901
 
   - source: 拓荒姬Offical
     collection_id: 
-      - 1866901
+      - 2844432    
+      - 2243776
 
       # 合集链接 https://www.miyoushe.com/ys/collection/2844432
+      # 合集链接 https://www.miyoushe.com/ys/collection/2243776
 
   - source: 地底Tv
     collection_id: 
