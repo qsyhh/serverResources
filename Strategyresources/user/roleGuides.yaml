@@ -11,6 +11,7 @@ news:
   - source: Asgater
     collection_id: 
       - 2226204
+      - 613
 
       # 合集链接 https://www.miyoushe.com/ys/collection/2226204
 
@@ -50,19 +51,11 @@ news:
 
       # 草 合集链接 https://www.miyoushe.com/ys/collection/2319299
 
-
-
   - source: 荧岁镇太辰
     collection_id: 
       - 2558464
 
       # 合集链接 https://www.miyoushe.com/ys/collection/2558464
-
-  - source: 洛羽Lox
-    collection_id: 
-      - 2489120
-
-      # 合集链接 https://www.miyoushe.com/ys/collection/2489120
 
   - source: 阿巴辣
     collection_id: 
@@ -85,3 +78,9 @@ news:
       - 2342915
 
       # 合集链接 https://www.miyoushe.com/ys/collection/2342915
+
+  - source: 洛羽Lox
+    collection_id: 
+      - 2489120
+
+      # 合集链接 https://www.miyoushe.com/ys/collection/2489120
