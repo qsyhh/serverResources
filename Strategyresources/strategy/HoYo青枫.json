@@ -428,6 +428,18 @@
         ],
         "StarRail": [
             {
+                "name": "Archer",
+                "link": ""
+            },
+            {
+                "name": "Saber",
+                "link": ""
+            },
+            {
+                "name": "白厄",
+                "link": "https://gitee.com/qsyhh_res/image/raw/master/sr/白厄/HoYo青枫_65751982.jpg"
+            },
+            {
                 "name": "赛飞儿",
                 "link": "https://upload-bbs.miyoushe.com/upload/2025/06/06/285802042/5492f12ca20fc84f3b8d400d4edbdf24_6650908037065858096.png"
             },
@@ -715,7 +727,7 @@
         "ZenlessZoneZero": [
             {
                 "name": "橘福福",
-                "link": ""
+                "link": "https://upload-bbs.miyoushe.com/upload/2025/06/25/285802042/aa916822ff8d38939a80c93e82afb778_5792323670535024311.png"
             },
             {
                 "name": "潘引壶",
