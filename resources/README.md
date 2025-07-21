@@ -4,9 +4,9 @@
 
 ### 库内目录说明：
 
-#### [Genshin Impact-原神](https://gitee.com/qsyhh/resources/tree/gs/#genshin-impact-原神)
+#### [Genshin Impact-原神](https://gitee.com/qsyhh_res/gs)
 
-#### [Honkai: Star Rail-崩坏：星穹铁道](https://gitee.com/qsyhh/resources/tree/sr/#honkai-star-rail-崩坏星穹铁道)
+#### [Honkai: Star Rail-崩坏：星穹铁道](https://gitee.com/qsyhh_res/sr)
 
 #### [Zenless Zone Zero-绝区零](https://gitee.com/qsyhh/resources#zenless-zone-zero-绝区零)
 
