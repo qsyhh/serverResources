@@ -1,0 +1,10 @@
+{
+  "name": "resources",
+  "author": "qsyhh",
+  "type": "module",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "dependencies": {
+  }
+}
